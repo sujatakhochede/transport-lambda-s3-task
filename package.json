@@ -1,0 +1,8 @@
+{
+  "name": "transport-aws-lambda-s3",
+  "version": "1.0.0",
+  "dependencies": {
+    "aws-cli": "latest",
+    "aws-sam-cli": "latest"
+  }
+}
